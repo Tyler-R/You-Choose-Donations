@@ -1,0 +1,44 @@
+.main {
+	padding-top: 65px; 
+}
+
+.logo {
+	padding-right: 16px;
+	margin-right: 8px !important;
+	border-right: 2px solid white;
+}
+
+.boxed {
+	border: 1px solid black;
+	padding: 0px !important;
+}
+
+.boxed * {
+	padding: 10px;
+}
+
+.left-content {
+}
+
+.middle-content {
+	margin-right: 16px;
+	margin-left: 16px;
+
+}
+
+p {
+	font-family: verdana;
+}
+
+.section-heading {
+	border-bottom: 1px solid black;
+	text-align: center;
+}
+
+b {
+	padding: 0px !important;
+}
+
+.stip-padding {
+	padding: 0px !important;
+}
